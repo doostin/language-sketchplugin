@@ -7,7 +7,7 @@ describe "Javascript grammar", ->
 
   beforeEach ->
     waitsForPromise ->
-      atom.packages.activatePackage("language-javascript")
+      atom.packages.activatePackage("language-sketchplugin")
 
     runs ->
       grammar = atom.grammars.grammarForScopeName("source.js")

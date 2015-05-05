@@ -1,13 +1,6 @@
 'scopeName': 'source.js'
 'fileTypes': [
-  'js'
-  'htc'
-  '_js'
-  'es'
-  'es6'
-  'pjs'
-  'xsjs'
-  'xsjslib'
+  'sketchplugin'
 ]
 'firstLineMatch': '^#!.*\\b(node|iojs|JavaScript)'
 'name': 'JavaScript'

@@ -1,18 +1,18 @@
 {
-  "name": "language-javascript",
-  "version": "0.76.0",
-  "description": "JavaScript language support in Atom",
+  "name": "language-sketchplugin",
+  "version": "0.1.0",
+  "description": "JavaScript(Sketch Plugin) language support in Atom",
   "engines": {
     "atom": "*",
     "node": "*"
   },
-  "homepage": "http://atom.github.io/language-javascript",
+  "homepage": "http://atom.github.io/language-sketchplugin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/language-javascript.git"
+    "url": "https://github.com/doostin/language-sketchplugin.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/language-javascript/issues"
+    "url": "https://github.com/doostin/language-sketchplugin/issues"
   }
 }
